@@ -8,7 +8,7 @@
     "logo": "/images/Logo v2.0 No BG.webp",
     "logo_width": "137",
     "logo_height": "46",
-    "logo_text": "Power AI"
+    "logo_text": ""
   },
   "settings": {
     "sticky_header": true,
@@ -45,5 +45,6 @@
     "enable": true,
     "provider": "open-remark",
     "siteKey": "cmpl2v9m4000104jjmruazes1"
-  }
+  },
+  "draft": false
 }
