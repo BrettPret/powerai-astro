@@ -22,9 +22,12 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Inter:wght@300;400;500;600",
+      "primary": "Host+Grotesk:wght@700;800&family=Inter:wght@300;400;500;600",
       "primary_type": "sans-serif"
     },
-    "font_size": { "base": "16", "scale": "1.2" }
+    "font_size": {
+      "base": "16",
+      "scale": "1.2"
+    }
   }
 }
