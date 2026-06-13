@@ -6,14 +6,10 @@
       "link": "https://x.com/Brainm8ion"
     },
     {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
-    {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://www.linkedin.com/company/brainm8ion"
     }
-  ]
+  ],
+  "draft": false
 }
