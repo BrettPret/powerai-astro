@@ -1,14 +1,9 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
       "name": "X",
       "icon": "FaXTwitter",
-      "link": "https://twitter.com/"
+      "link": "https://x.com/Brainm8ion"
     },
     {
       "name": "github",
